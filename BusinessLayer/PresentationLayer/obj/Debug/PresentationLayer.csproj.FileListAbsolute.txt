@@ -1,0 +1,15 @@
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\DataLayer.dll
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\bin\Debug\DataLayer.pdb
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\umitr\Documents\primerKolokvijuma2020\BusinessLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete

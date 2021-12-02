@@ -22,9 +22,11 @@ namespace BusinessLayer
         }
         public bool InsertStudent(Student s)
         {
-            if(this.studentRepository.InsertStudent(s)>0);
-                 return true;
-            return false;
+            if(this.studentRepository.InsertStudent(s)>0)
+            {
+                return true; 
+            }
+            else { return false; }
         }
         public List<Student> GetStudentsGTAvg(decimal avgMark)
         {
