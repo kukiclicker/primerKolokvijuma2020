@@ -1,0 +1,1 @@
+# primerKolokvijuma2020
