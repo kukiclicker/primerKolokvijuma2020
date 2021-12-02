@@ -45,7 +45,7 @@ namespace DataLayer
                 sqlCommand.Connection = sqlConnection;
                 sqlCommand.CommandText = string.Format(format: "INSERT INTO Students VALUES('{0}','{1}',{2})",s.Name,s.IndexNumber,s.AverageMark);
                 
-                return sqlCommand.ExecuteNonQuery();
+                return sqlCommand.ExecuteNonQuery(); 
             }
         }
      }
